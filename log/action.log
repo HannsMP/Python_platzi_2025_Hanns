@@ -1,0 +1,27 @@
+
+[Accion] (user: Maria, rol_id: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol_id: Rols.ADMIN, accion: agregar)
+[Error] (user: Jose, rol_id: Rols.EMPLOYEE, accion: eliminar), El Jose No tienes permisos para eliminar usuarios
+[Accion] (user: Maria, rol_id: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol_id: Rols.ADMIN, accion: agregar)
+[Error] (user: Jose, rol_id: Rols.EMPLOYEE, accion: eliminar), El usario Jose intento pero no tienes permisos para eliminar usuarios
+[Error] (user: Maria, rol: Rols.ADMIN, accion: agregar), 'User' object has no attribute 'rol_id'
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Error] (user: Jose, rol: Rols.EMPLOYEE, accion: agregar), El usario Jose intento pero no tienes permisos para agregar usuarios
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: eliminar)
+[Error] (user: Jose, rol: Rols.EMPLOYEE, accion: eliminar), El usario Jose intento pero no tienes permisos para eliminar usuarios
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: eliminar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: eliminar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[AccessError] (user: Jose, rol: Rols.EMPLOYEE, accion: eliminar), El usario Jose intento pero no tienes permisos para eliminar usuarios
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: agregar)
+[Accion] (user: Maria, rol: Rols.ADMIN, accion: eliminar)
