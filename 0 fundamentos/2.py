@@ -38,4 +38,3 @@ print('find', name.find("n"))
 
 # index
 print('index', name.index("n"))
-
